@@ -4,6 +4,13 @@
 - Submission Code 
 - Huigyoeng Son 
 
+### ranking
+
+- final private ranking 18/1445 
+- leaderboard : https://dacon.io/competitions/official/236500/leaderboard
+  <img width="512" height="303" alt="image" src="https://github.com/user-attachments/assets/41abe434-0ced-474d-b09c-80f39ad537ea" />
+
+
 ### environment 
 
 System 

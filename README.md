@@ -25,7 +25,7 @@
 ## Description
 
 <p align="justify">
-This project is for the development of a <b>generative AI model</b> for the <b>2025 Samsung Collegiate Programming Challenge (SCPC)</b>. The core objective of this project was to develop a <b>multimodal model</b> that accurately answers <b>multiple-choice questions</b> about a given image, for which we implemented a comprehensive approach spanning <b>custom dataset generation</b>, <b>model optimization</b>, and a <b>strategic inference process</b>.
+The core objective of this project was to develop a <b>multimodal model</b> that accurately answers <b>multiple-choice questions</b> about a given image, for which we implemented a comprehensive approach spanning <b>custom dataset generation</b>, <b>model optimization</b>, and a <b>strategic inference process</b>.
 </p>
 
 <p align="justify">

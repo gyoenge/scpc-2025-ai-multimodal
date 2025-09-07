@@ -33,7 +33,7 @@ First, we built a <b>three-step pipeline</b> to generate a training dataset of 1
 </p>
 
 <p align="justify">
-For modeling, we used the <b>`Salesforce/blip2-flan-t5-xl`</b> model as our base, which combines the <b>BLIP-2 architecture</b> with a <b>FLAN-T5-XL text decoder</b> . To ensure efficient training within limited resources, we applied two optimization techniques. First, through <b>partial quantization</b>, we applied <b>4-bit quantization</b> only to the T5 decoder, improving inference efficiency. Second, we used <b>LoRA (Low-Rank Adaptation)</b>, a <b>Parameter-Efficient Fine-Tuning (PEFT)</b> method, to freeze the existing model's weights and add <b>trainable adapters</b> only to specific layers of the Q-Former for training].
+For modeling, we used the <b>`Salesforce/blip2-flan-t5-xl`</b> model as our base, which combines the <b>BLIP-2 architecture</b> with a <b>FLAN-T5-XL text decoder</b> . To ensure efficient training within limited resources, we applied two optimization techniques. First, through <b>partial quantization</b>, we applied <b>4-bit quantization</b> only to the T5 decoder, improving inference efficiency. Second, we used <b>LoRA (Low-Rank Adaptation)</b>, a <b>Parameter-Efficient Fine-Tuning (PEFT)</b> method, to freeze the existing model's weights and add <b>trainable adapters</b> only to specific layers of the Q-Former for training.
 </p>
 
 <p align="justify">
